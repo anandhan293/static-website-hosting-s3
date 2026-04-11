@@ -1,7 +1,7 @@
 /* ==========================================================================
    Parallax Starter - Free HTML CSS Template
 
-TemplateMo 612 Parallax Starter
+TemplateMo 612 ANANDHAN RAJA
 
 https://templatemo.com/tm-612-parallax-starter
 
